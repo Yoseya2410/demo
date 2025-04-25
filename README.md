@@ -1,1 +1,0 @@
-Warehouse for storing demo
